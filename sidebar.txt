@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cnc:home|Door43 (cnc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cnc|d43-cnc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cnc/archive/master.zip|d43-cnc.zip]]
+
+**Recent Changes**
+{{changes>ns = cnc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cnc|Ethnologue data]]
+
